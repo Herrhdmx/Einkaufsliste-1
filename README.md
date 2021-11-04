@@ -4,6 +4,9 @@
 
 # :rocket: CV
 
+![Portrait](cv-picture.jpg "CV Image Bill Gates")
+
+
 > “The Internet?  We are not interested in it.” - _Bill Gates, 1993_
 
 
