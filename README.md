@@ -1,8 +1,11 @@
----
+***
+
+# :rocket: CV
 
 :round_pushpin: New York, USA :iphone: 555-123-456 :e-mail: my@imaginary-mail.com :globe_with_meridians: __[mysite.com](https://www.google.com/)__ :octocat: __[Github](https://github.com/)__
 
-# :rocket: CV
+
+***
 
 ![Portrait](cv-picture.jpg "CV Image Bill Gates")
 
